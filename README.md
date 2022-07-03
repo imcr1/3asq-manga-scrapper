@@ -1,7 +1,7 @@
 # 3asq-manga-scrapper
 # tiktok-scraper
 <div align="center">
-<img src="images/3asqLogo.png" align="center" style="width: 100%" />
+<img src="images/3asqLogo.png" align="center" style="width: 50%" />
 <img src="images/view.png" align="center" style="width: 100%" />
 </div>  
   
