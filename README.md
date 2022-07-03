@@ -15,7 +15,7 @@
 - 🧠 Are you geek ? Why don't you try adding Multi download [HERE](https://github.com/imcr1/3asq-manga-scrapper/tree/main/src)
   
 
-- ⚡ Fact : My first programm in **C#** 😎  
+- ⚡ Facts : ["My first programm in **C#** 😎" , "Especially made for  **BERSERK**" ] 
 
 
 <div align="center">
